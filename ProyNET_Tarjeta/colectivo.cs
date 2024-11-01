@@ -3,7 +3,7 @@ using Iteraciones;
 
 namespace Iteraciones
 {
-  class Colectivo{
+  public class Colectivo{
     //Atributos
     private string linea;
     public string Linea {get {return linea;}}
