@@ -1,36 +1,47 @@
 using System;
 using Iteraciones;
 
-namespace Iteraciones
+public abstract class Colectivo
 {
-  public class Colectivo{
-    //Atributos
-    private string linea;
-    public string Linea {get {return linea;}}
-    //Constructor
-    public Colectivo(string linea = "interurbano"){
-        this.linea = linea;
+    public string Linea { get; private set; }
+
+    protected Colectivo(string linea)
+    {
+        this.Linea = linea;
     }
-    //Métodos 
-    
-    public Boleto? pagarCon(Tarjeta tarjeta){
-      tarjeta.CalcularFranquicia();
-      Boleto boleto = new Boleto(tarjeta,this);
-      int tarifa = boleto.GetTotalPagar();
-      if (!tarjeta.EsPosibleViajar(tarifa)){
-        return null;
-      }
-      else {
-        tarjeta.Pagar(tarifa);
-        tarjeta.CantUsosHoy = tarjeta.CantUsosHoy + 1;
+
+    public abstract float ObtenerTarifa();
+
+    public virtual Boleto? pagarCon(Tarjeta tarjeta)
+    {
+        tarjeta.CalcularFranquicia();
+
+        float tarifa = ObtenerTarifa();
+        Boleto boleto = new Boleto(tarjeta, this, tarifa);
+
+        int costo = (int)(tarifa * tarjeta.Descuento_franquicia);
+
+        if (!tarjeta.EsPosibleViajar(costo))
+        {
+            return null;
+        }
+
+        tarjeta.Pagar(costo);
+        tarjeta.CantUsosHoy++;
         boleto.SaldoRestante = tarjeta.Saldo;
         tarjeta.AgregarBoleto(boleto);
+        tarjeta.RegistrarViaje();
+
         if (tarjeta.DeudaPaga > 0)
-          {boleto.Descripcion = $"El boleto abonó {tarjeta.DeudaPaga} pesos de saldo negativo en la ultima carga";
-          tarjeta.DeudaPaga = 0;}
-        else 
-          {boleto.Descripcion = null;}
-      return boleto;}
-    } 
-  }
+        {
+            boleto.Descripcion = $"El boleto abonó {tarjeta.DeudaPaga} pesos de saldo negativo en la última carga";
+            tarjeta.DeudaPaga = 0;
+        }
+        else
+        {
+            boleto.Descripcion = null;
+        }
+
+        return boleto;
+    }
 }
