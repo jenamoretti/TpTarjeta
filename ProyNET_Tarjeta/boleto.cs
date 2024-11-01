@@ -6,7 +6,7 @@ namespace Iteraciones
   class Boleto{
     //Atributos
     
-      public static float tarifa_pasaje = 940.0f;
+      public static float tarifa_pasaje = 1200.0f;
       private int saldo_restante;
       public int SaldoRestante  {
         get {return saldo_restante;}
