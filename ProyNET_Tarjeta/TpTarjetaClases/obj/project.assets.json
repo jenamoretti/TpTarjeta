@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\TpTarjetaClases.csproj",
+      "projectUniqueName": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjetaClases\\TpTarjetaClases.csproj",
       "projectName": "TpTarjetaClases",
-      "projectPath": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\TpTarjetaClases.csproj",
+      "projectPath": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjetaClases\\TpTarjetaClases.csproj",
       "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\obj\\",
+      "outputPath": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjetaClases\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",

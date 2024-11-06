@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TpTarjetaClases")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c7684a3dd2f4bca8038fd37f82d5f2fe37680e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TpTarjetaClases")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TpTarjetaClases")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

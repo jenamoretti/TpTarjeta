@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TpTarjeta(Berlini-Moretti).csproj",
+      "projectUniqueName": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjeta(Berlini-Moretti)\\TpTarjeta(Berlini-Moretti).csproj",
       "projectName": "TpTarjeta(Berlini-Moretti)",
-      "projectPath": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TpTarjeta(Berlini-Moretti).csproj",
+      "projectPath": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjeta(Berlini-Moretti)\\TpTarjeta(Berlini-Moretti).csproj",
       "packagesPath": "C:\\Users\\veron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\obj\\",
+      "outputPath": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjeta(Berlini-Moretti)\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\veron\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1024,8 +1024,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\TpTarjetaClases.csproj": {
-              "projectPath": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\TpTarjetaClases.csproj"
+            "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjetaClases\\TpTarjetaClases.csproj": {
+              "projectPath": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjetaClases\\TpTarjetaClases.csproj"
             }
           }
         }

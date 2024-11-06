@@ -23,7 +23,7 @@ namespace Iteraciones
         // Métodos
         public override bool EsPosibleViajar(int tarifa)
         {
-            if (!EsHorarioValido() || saldo + 480 < tarifa)
+            if (!EsHorarioValido() || saldo + 480 < (int)(tarifa * desc))
                 return false;
 
             return true;

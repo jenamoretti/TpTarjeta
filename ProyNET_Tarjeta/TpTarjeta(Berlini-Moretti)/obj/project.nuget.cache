@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w2OVlnio61Y=",
+  "dgSpecHash": "ff/x8dJimnw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TpTarjeta(Berlini-Moretti).csproj",
+  "projectFilePath": "C:\\Users\\veron\\OneDrive\\Desktop\\TpTarjeta\\ProyNET_Tarjeta\\TpTarjeta(Berlini-Moretti)\\TpTarjeta(Berlini-Moretti).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\veron\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\veron\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
