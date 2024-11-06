@@ -10,7 +10,7 @@ namespace TpTarjeta.Tests
         [Test]
         public void TestNoMasDeDosViajesGratuitosPorDia()
         {
-            var tarjeta = new FranquiciaCompleta(1000);
+            var tarjeta = new BoletoEstudiantil(1000);
             var colectivo = new ColectivoNormal("Linea 1");
             Boleto[] boletos = new Boleto[3];
 
@@ -31,7 +31,7 @@ namespace TpTarjeta.Tests
         [Test]
         public void TestViajesPosterioresAlSegundoCobranTarifaCompleta()
         {
-            var tarjeta = new FranquiciaCompleta(1000);
+            var tarjeta = new BoletoEstudiantil(1000);
             var colectivo = new ColectivoNormal("Linea 1");
             Boleto[] boletos = new Boleto[3];
 

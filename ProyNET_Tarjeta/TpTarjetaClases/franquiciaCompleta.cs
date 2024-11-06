@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Iteraciones
 {
-    public class FranquiciaCompleta : Tarjeta
+    public abstract class FranquiciaCompleta : Tarjeta
     {
         // Atributos
         private float desc;
@@ -23,18 +23,12 @@ namespace Iteraciones
         // Métodos
         public override bool EsPosibleViajar(int tarifa)
         {
-            if (!EsHorarioValido())
+            if (!EsHorarioValido() || saldo + 480 < tarifa)
                 return false;
 
             return true;
         }
 
-        public override void CalcularFranquicia()
-        {
-            if (CantUsosHoy < 2)
-                Descuento_franquicia = 0.0f;
-            else
-                Descuento_franquicia = 1.0f;
-        }
+
     }
 }

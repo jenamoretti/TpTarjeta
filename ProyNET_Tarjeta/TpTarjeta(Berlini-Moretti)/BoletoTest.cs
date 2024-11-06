@@ -10,7 +10,7 @@ namespace TpTarjeta.Tests
         [Test]
         public void TestBoletoFranquiciaCompleta()
         {
-            var tarjeta = new FranquiciaCompleta(2000);
+            var tarjeta = new BoletoJubilados(2000);
             var colectivo = new ColectivoNormal("10");
             tarjeta.CantUsosHoy = 1;
             tarjeta.CalcularFranquicia();
@@ -20,7 +20,7 @@ namespace TpTarjeta.Tests
             Assert.IsNotNull(boleto);
             Assert.AreEqual(0, boleto.TotalAPagar);
             Assert.AreEqual(2000, boleto.SaldoRestante);
-            Assert.AreEqual("FranquiciaCompleta", boleto.GetTipoTarjeta());
+            Assert.AreEqual("BoletoJubilados", boleto.GetTipoTarjeta());
             Assert.AreEqual("10", boleto.GetLineaColectivo());
         }
 

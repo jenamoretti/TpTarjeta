@@ -25,7 +25,7 @@ namespace TpTarjeta.Tests
         [Test]
         public void TestFranjaHorariaNoPermitida_FranquiciaCompleta()
         {
-            FranquiciaCompleta tarjeta = new FranquiciaCompleta(5000);
+            BoletoJubilados tarjeta = new BoletoJubilados(5000);
 
             TiempoFalso tiempoFalso = new TiempoFalso();
             tiempoFalso.AgregarMinutos(1380);

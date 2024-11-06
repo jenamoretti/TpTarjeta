@@ -10,7 +10,7 @@ namespace IteracionesTests
         [Test]
         public void TestFranquiciaCompletaSiemprePuedePagar()
         {
-            FranquiciaCompleta tarjeta = new FranquiciaCompleta(0);
+            BoletoJubilados tarjeta = new BoletoJubilados(0);
 
             TiempoFalso tiempoFalso = new TiempoFalso();
             tiempoFalso.AgregarMinutos(900);
