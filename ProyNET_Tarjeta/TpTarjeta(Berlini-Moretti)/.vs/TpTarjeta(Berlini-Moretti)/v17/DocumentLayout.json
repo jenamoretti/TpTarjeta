@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\boletotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:boletotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\colectivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\boleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\franquiciacompleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\boletojubilados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\franquiciatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:franquiciatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\colectivotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:colectivotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\boletoeducativotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:boletoeducativotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\horariofranquiciatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:horariofranquiciatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\boletoeducativogratuatito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\tarjetatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:tarjetatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\medioboletotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:medioboletotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\tarjetausofrecuentetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:tarjetausofrecuentetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\tarjetacargaexcedentetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:tarjetacargaexcedentetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\saldonegativotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:saldonegativotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|c:\\users\\veron\\source\\repos\\tptarjeta(berlini-moretti)\\interurbanotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A23CAB77-8986-4C23-AA73-10DF36C20BD6}|TpTarjeta(Berlini-Moretti).csproj|solutionrelative:interurbanotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\colectivourbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\tiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\tiempofalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\colectivointerurbano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\medioboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\tarjetacomun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\tarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}|..\\TpTarjetaClases\\TpTarjetaClases.csproj|c:\\users\\veron\\source\\repos\\tptarjetaclases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "boletoJubilados.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\boletoJubilados.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\boletoJubilados.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\boletoJubilados.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\boletoJubilados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:40:03.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoletoEducativoTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\BoletoEducativoTest.cs",
+              "RelativeDocumentMoniker": "BoletoEducativoTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\BoletoEducativoTest.cs",
+              "RelativeToolTip": "BoletoEducativoTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAxwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:05:19.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoletoTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\BoletoTest.cs",
+              "RelativeDocumentMoniker": "BoletoTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\BoletoTest.cs",
+              "RelativeToolTip": "BoletoTest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAywEYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:51:38.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColectivoTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\ColectivoTest.cs",
+              "RelativeDocumentMoniker": "ColectivoTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\ColectivoTest.cs",
+              "RelativeToolTip": "ColectivoTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:11:22.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FranquiciaTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\FranquiciaTest.cs",
+              "RelativeDocumentMoniker": "FranquiciaTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\FranquiciaTest.cs",
+              "RelativeToolTip": "FranquiciaTest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:17:23.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "franquiciaCompleta.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\franquiciaCompleta.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\franquiciaCompleta.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\franquiciaCompleta.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\franquiciaCompleta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:01:59.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "boleto.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\boleto.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\boleto.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\boleto.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\boleto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:58:08.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "colectivo.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\colectivo.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\colectivo.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\colectivo.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\colectivo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:00:44.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HorarioFranquiciaTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\HorarioFranquiciaTests.cs",
+              "RelativeDocumentMoniker": "HorarioFranquiciaTests.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\HorarioFranquiciaTests.cs",
+              "RelativeToolTip": "HorarioFranquiciaTests.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:19:06.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "boletoEducativoGratuatito.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\boletoEducativoGratuatito.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\boletoEducativoGratuatito.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\boletoEducativoGratuatito.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\boletoEducativoGratuatito.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:39:09.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "tarjetaTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\tarjetaTest.cs",
+              "RelativeDocumentMoniker": "tarjetaTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\tarjetaTest.cs",
+              "RelativeToolTip": "tarjetaTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:28:32.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaldoNegativoTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\SaldoNegativoTests.cs",
+              "RelativeDocumentMoniker": "SaldoNegativoTests.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\SaldoNegativoTests.cs",
+              "RelativeToolTip": "SaldoNegativoTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:24:48.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TarjetaCargaExcedenteTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TarjetaCargaExcedenteTest.cs",
+              "RelativeDocumentMoniker": "TarjetaCargaExcedenteTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TarjetaCargaExcedenteTest.cs",
+              "RelativeToolTip": "TarjetaCargaExcedenteTest.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:25:23.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TarjetaUsoFrecuenteTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TarjetaUsoFrecuenteTest.cs",
+              "RelativeDocumentMoniker": "TarjetaUsoFrecuenteTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\TarjetaUsoFrecuenteTest.cs",
+              "RelativeToolTip": "TarjetaUsoFrecuenteTest.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:27:24.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "medioBoletoTests.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\medioBoletoTests.cs",
+              "RelativeDocumentMoniker": "medioBoletoTests.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\medioBoletoTests.cs",
+              "RelativeToolTip": "medioBoletoTests.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:27:57.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InterurbanoTest.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\InterurbanoTest.cs",
+              "RelativeDocumentMoniker": "InterurbanoTest.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjeta(Berlini-Moretti)\\InterurbanoTest.cs",
+              "RelativeToolTip": "InterurbanoTest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:20:19.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ColectivoInterurbano.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\ColectivoInterurbano.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\ColectivoInterurbano.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\ColectivoInterurbano.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\ColectivoInterurbano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:03:38.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ColectivoUrbano.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\ColectivoUrbano.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\ColectivoUrbano.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\ColectivoUrbano.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\ColectivoUrbano.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:03:13.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tiempo.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\Tiempo.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\Tiempo.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\Tiempo.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\Tiempo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:02:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TiempoFalse.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\TiempoFalse.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\TiempoFalse.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\TiempoFalse.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\TiempoFalse.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:02:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "medioBoleto.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\medioBoleto.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\medioBoleto.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\medioBoleto.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\medioBoleto.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:01:34.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "tarjetaComun.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\tarjetaComun.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\tarjetaComun.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\tarjetaComun.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\tarjetaComun.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAxwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:01:13.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "tarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\tarjeta.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\tarjeta.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\tarjeta.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\tarjeta.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwIIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:59:01.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TpTarjetaClases\\Program.cs",
+              "ToolTip": "C:\\Users\\veron\\source\\repos\\TpTarjetaClases\\Program.cs",
+              "RelativeToolTip": "..\\TpTarjetaClases\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T23:56:29.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
