@@ -3,52 +3,39 @@ using Iteraciones;
 
 namespace Iteraciones
 {
-  class Boleto{
-    //Atributos
-    
-      public static float tarifa_pasaje = 940.0f;
-      private int saldo_restante;
-      public int SaldoRestante  {
-        get {return saldo_restante;}
-        set {saldo_restante = value;}
-      }
-      private Tarjeta tarjeta;
-      private string tipoTarjeta;
-      private string linea_viajada;
-      private int total_a_pagar;
-      private DateTime fecha;
-      private string? descripcion_saldo_neg;
-      public string? Descripcion {
-        get {return descripcion_saldo_neg;}
-        set {descripcion_saldo_neg = value;}
-      }
-    //Constructores
-      public Boleto(Tarjeta tarjeta, Colectivo colectivo){
-        this.tarjeta = tarjeta;
-        fecha = DateTime.Now;
-        tipoTarjeta = tarjeta.GetType().Name;
-        total_a_pagar = ((int)(Boleto.tarifa_pasaje * tarjeta.Descuento_franquicia));
-        linea_viajada = colectivo.Linea;
-      }
+    public class Boleto
+    {
+        public static float tarifa_pasaje = 1200.0f;
+        public static float tarifa_interurbana = 2500.0f;
+        public int SaldoRestante { get; set; }
+        private Tarjeta tarjeta;
+        public string TipoTarjeta { get; private set; }
+        public string LineaViajada { get; private set; }
+        public int TotalAPagar { get; private set; }
+        public DateTime Fecha { get; private set; }
+        public string? Descripcion { get; set; }
 
-    //Métodos 
-      public DateTime GetFecha(){
-        return fecha;
-      }
-      public string GetTipoTarjeta(){
-        return tipoTarjeta;
-      }
-      public string GetLineaColectivo(){
-        return linea_viajada;
-      }
-      public int GetTotalPagar(){
-        return total_a_pagar;
-      }
-      public int GetSaldo(){
-        return tarjeta.Saldo;
-      }
-      public int GetIdTarjeta(){
-        return tarjeta.Id;
-      }
-  }
+        public Boleto(Tarjeta tarjeta, Colectivo colectivo, float tarifa)
+        {
+            this.tarjeta = tarjeta ?? throw new ArgumentNullException(nameof(tarjeta));
+            if (colectivo == null) throw new ArgumentNullException(nameof(colectivo));
+
+            Fecha = Tarjeta.GetTiempoActual();
+            TipoTarjeta = tarjeta.GetType().Name;
+            TotalAPagar = CalcularTotalAPagar(tarifa, tarjeta);
+            LineaViajada = colectivo.Linea;
+        }
+
+        private int CalcularTotalAPagar(float tarifa, Tarjeta tarjeta)
+        {
+            return (int)(tarifa * tarjeta.Descuento_franquicia);
+        }
+
+        public DateTime GetFecha() => Fecha;
+        public string GetTipoTarjeta() => TipoTarjeta;
+        public string GetLineaColectivo() => LineaViajada;
+        public int GetTotalPagar() => TotalAPagar;
+        public int GetSaldo() => tarjeta.Saldo;
+        public int GetIdTarjeta() => tarjeta.Id;
+    }
 }
