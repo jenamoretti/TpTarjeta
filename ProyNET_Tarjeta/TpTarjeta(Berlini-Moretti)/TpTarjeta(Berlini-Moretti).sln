@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpTarjeta(Berlini-Moretti)", "TpTarjeta(Berlini-Moretti).csproj", "{A23CAB77-8986-4C23-AA73-10DF36C20BD6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5} = {3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpTarjetaClases", "..\TpTarjetaClases\TpTarjetaClases.csproj", "{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23CAB77-8986-4C23-AA73-10DF36C20BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23CAB77-8986-4C23-AA73-10DF36C20BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23CAB77-8986-4C23-AA73-10DF36C20BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23CAB77-8986-4C23-AA73-10DF36C20BD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC7FA5D-9C00-4D65-BE37-0EA645CC93F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48DA1EBE-BB3C-43D2-A25E-9FD320A6A75B}
+	EndGlobalSection
+EndGlobal

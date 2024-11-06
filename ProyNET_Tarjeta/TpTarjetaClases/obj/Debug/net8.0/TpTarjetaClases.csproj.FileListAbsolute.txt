@@ -1,0 +1,14 @@
+C:\Users\veron\source\repos\TpTarjetaClases\bin\Debug\net8.0\TpTarjetaClases.exe
+C:\Users\veron\source\repos\TpTarjetaClases\bin\Debug\net8.0\TpTarjetaClases.deps.json
+C:\Users\veron\source\repos\TpTarjetaClases\bin\Debug\net8.0\TpTarjetaClases.runtimeconfig.json
+C:\Users\veron\source\repos\TpTarjetaClases\bin\Debug\net8.0\TpTarjetaClases.dll
+C:\Users\veron\source\repos\TpTarjetaClases\bin\Debug\net8.0\TpTarjetaClases.pdb
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.AssemblyInfo.cs
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.dll
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\refint\TpTarjetaClases.dll
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.pdb
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\TpTarjetaClases.genruntimeconfig.cache
+C:\Users\veron\source\repos\TpTarjetaClases\obj\Debug\net8.0\ref\TpTarjetaClases.dll
